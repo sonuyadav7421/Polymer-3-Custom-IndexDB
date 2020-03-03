@@ -12,6 +12,12 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 $ polymer serve
 ```
 
+## Usage
+
+```
+<wr-app-index-db db-name="DBname" db="{{dbInstance}}"></wr-app-index-db>
+```
+
 ## Running Tests
 
 ```
